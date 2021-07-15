@@ -1,0 +1,32 @@
+
+
+body {
+	background-image : url('../images/PngItem_5131515.png');
+	display : fixed;
+	background-repeat : no-repeat;
+}
+
+
+.myDiv1{
+
+  margin-top:50px;
+  border-radius:20px;
+  padding-top:5px; 
+  padding-bottom:5px;
+  padding-left:40px;
+  padding-right:40px;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+  width:80%;
+  background-color:white;
+  color:black;
+  text-align:center;
+	
+}
+
+.btn{
+	background-color:#2EFF43;
+	width :100px;
+	border-radius:15%;
+	font-size:18px;
+	margin-top:10px;
+}

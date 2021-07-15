@@ -1,0 +1,57 @@
+body {
+	margin:25px;
+	text-align: center;
+	background-image : url('../images/PngItem_5131515.png');
+	display : fixed;
+	background-repeat : no-repeat;
+}
+
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+.btn{
+	background-color:#2EFF43;
+	width :100px;
+	border-radius:15%;
+	font-size:18px;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  margin-left:70px;
+  width: 24.99999%;
+  
+}
+
+
+
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  height:80%;
+  text-align: center;
+  background-color: #f1f1f1;
+  margin-left:20px;
+  margin-right:20px;
+  margin-bottom:5px;
+  border-radius:20px;
+}
